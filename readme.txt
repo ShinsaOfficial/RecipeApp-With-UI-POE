@@ -6,7 +6,7 @@ Prerequisites
 Steps to Compile and Run
 
 1. Clone the Repository 
-(        )
+(https://github.com/ShinsaOfficial/RecipeApp-With-UI-POE.git)
 
 2. Open the Solution in Visual Studio
 •	Launch Visual Studio.
