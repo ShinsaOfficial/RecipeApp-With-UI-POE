@@ -1,0 +1,170 @@
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.baml
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.baml
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.g.cs
+C:\Users\Sound Click Labs\source\repos\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.baml
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.baml
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\App.baml
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Sound Click Labs\Music\syntiche new\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\App.baml
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\DisplayRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\PieChartWindow.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\RecipeDetailsWindow.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\SelectRecipesWindow.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Sound Click Labs\Music\Shinsa-POE\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
